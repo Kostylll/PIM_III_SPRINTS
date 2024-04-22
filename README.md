@@ -2,5 +2,6 @@
 PROJETO PIM SPRINTS E BACKLOGS
 
 
-- REPSITÓRIO COM O [CÓDIGO PIM](https://github.com/Kostylll/PIM_TERCEIRO_SEMESTRE)
+- <a href="https://github.com/Kostylll/PIM_TERCEIRO_SEMESTRE" target="_blank">PIM_TERCEIRO_SEMESTRE</a>
+
 
