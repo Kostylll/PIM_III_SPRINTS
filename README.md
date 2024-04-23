@@ -1,4 +1,4 @@
-AQUI NESTE REPOSITÓRIO VOCÊ PODERÁ VIZUALIZAR TODA A METODOLOGIA SCRUM UTILIZADA EM NOSSA EQUIPE!
+**AQUI NESTE REPOSITÓRIO VOCÊ PODERÁ VIZUALIZAR TODA A METODOLOGIA SCRUM UTILIZADA EM NOSSA EQUIPE!**
 
 Bem-vindo à equipe de desenvolvimento da Simple Plan! Aqui, estamos ansiosos para desenvolver uma solução inovadora para gerenciar e simplificar a gestão de fazendas de pequeno porte. Desde o planejamento até a colheita, nossa aplicação, conhecida como Simple Plan, visa facilitar todas as etapas do processo de gestão agrícola.
 
@@ -8,7 +8,7 @@ Nossa equipe é composta por pessoas talentosas e motivadas que trazem seu conhe
 
 Iremos valorizar a cooperação, a criatividade e a inovação ao longo deste processo. Nosso objetivo é ouvir atentamente os requisitos de nossos clientes e ajustar nossa aplicação para atender aos seus requisitos. Satisfazer e superar as expectativas é nosso objetivo, oferecendo uma solução acessível, confiável e impactante.
 
-A SIMPLE PLAN É COMPOSTA POR 6 DESENVOLVEDORES SENDO ELES
+**A SIMPLE PLAN É COMPOSTA POR 6 DESENVOLVEDORES SENDO ELES**
 
 - PEDRO DO MONTE VANDERLEI (PROJECT OWNER)
 - CAROLINE MENDEL (SCRUM MASTER)
@@ -21,14 +21,9 @@ A SIMPLE PLAN É COMPOSTA POR 6 DESENVOLVEDORES SENDO ELES
 Somos uma equipe com um grande comprometimento a entregar satisfações em planos simples!
 
 
+**Este é um Gráfico Burndown de como nosssa equipe está trabalhando eficientemente na nossa última Sprint que tivemos!**
 
-
-![5dbad627-6a9b-4e62-8da4-18708aa0af8e](https://github.com/Kostylll/PIM_III_SPRINTS/assets/99488902/1e996739-018b-4943-b893-6a9b88f8354b)
-
-
-
-
-
+![Screenshot_174](https://github.com/Kostylll/PIM_III_SPRINTS/assets/99488902/e3603efd-e197-40ab-9d67-abd5e7c4ca32)
 
 
 
