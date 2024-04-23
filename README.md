@@ -16,9 +16,11 @@ Iremos valorizar a cooperação, a criatividade e a inovação ao longo deste pr
 - RAFAEL NOGUTTI SALLES ( DEV TEAM )
 - LEONARDO FERNANDES  ( DEV TEAM )
 - JOAO LUCAS CARDOSO ( DEV TEAM )
-- <a href="https://github.com/Kostylll/PIM_TERCEIRO_SEMESTRE" target="_blank">REPOSITÓRIO DO CÓDIGO PIM</a>
+-  <a href="https://github.com/Kostylll/PIM_TERCEIRO_SEMESTRE" target="_blank">REPOSITÓRIO DO CÓDIGO PIM</a>
 
 Somos uma equipe com um grande comprometimento a entregar satisfações em planos simples!
+
+![5dbad627-6a9b-4e62-8da4-18708aa0af8e](https://github.com/Kostylll/PIM_III_SPRINTS/assets/99488902/a807281b-9ceb-4e67-ab03-df669ed2c813)
 
 
 **Este é um Gráfico Burndown de como nosssa equipe está trabalhando eficientemente na nossa última Sprint que tivemos!**
