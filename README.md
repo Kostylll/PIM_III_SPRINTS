@@ -25,7 +25,7 @@ Somos uma equipe com um grande comprometimento a entregar satisfações em plano
 
 **Este é um Gráfico Burndown de como nosssa equipe está trabalhando eficientemente na nossa última Sprint que tivemos!**
 
-![Screenshot_174](https://github.com/Kostylll/PIM_III_SPRINTS/assets/99488902/e3603efd-e197-40ab-9d67-abd5e7c4ca32)
+![Screenshot_197](https://github.com/Kostylll/PIM_III_SPRINTS/assets/99488902/a3da379e-1aca-4e73-90fb-f6a316a7e470)
 
 
 
