@@ -10,7 +10,7 @@ Iremos valorizar a cooperação, a criatividade e a inovação ao longo deste pr
 
 PROOF OF CONCEPT DO PROJETO FIGMA
 
-- <a href="https://github.com/Kostylll/PIM_TERCEIRO_SEMESTRE](https://www.figma.com/design/cZ8AAe6oKD3AbLGyBu1NDT/PIM?node-id=0-1&t=SxsCqyy0FbWu58lY-0)" target="_blank">REPOSITÓRIO DO CÓDIGO PIM</a>
+- <a href="https://github.com/Kostylll/PIM_TERCEIRO_SEMESTRE](https://www.figma.com/design/cZ8AAe6oKD3AbLGyBu1NDT/PIM?node-id=0-1&t=SxsCqyy0FbWu58lY-0)" target="_blank">INTERFACE</a>
 
 
 **A SIMPLE PLAN É COMPOSTA POR 6 DESENVOLVEDORES SENDO ELES**
@@ -21,7 +21,7 @@ PROOF OF CONCEPT DO PROJETO FIGMA
 - RAFAEL NOGUTTI SALLES ( DEV TEAM )
 - LEONARDO FERNANDES  ( DEV TEAM )
 - JOAO LUCAS CARDOSO ( DEV TEAM )
--  <a href="https://github.com/Kostylll/PIM_TERCEIRO_SEMESTRE" target="_blank">INTERFACE</a>
+-  <a href="https://github.com/Kostylll/PIM_TERCEIRO_SEMESTRE" target="_blank">REPOSITÓRIO DO CÓDIGO PIM</a>
 
 Somos uma equipe com um grande comprometimento a entregar satisfações em planos simples!
 
