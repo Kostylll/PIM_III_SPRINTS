@@ -10,8 +10,8 @@ Iremos valorizar a cooperação, a criatividade e a inovação ao longo deste pr
 
 PROOF OF CONCEPT DO PROJETO FIGMA
 
-- <a href="https://www.figma.com/design/cZ8AAe6oKD3AbLGyBu1NDT/PIM?node-id=0-1&t=SxsCqyy0FbWu58lY-0" target="_blank">INTERFACE</a>
-- <a href="https://www.figma.com/proto/cZ8AAe6oKD3AbLGyBu1NDT/PIM?type=design&node-id=2-28&t=D937yTqVvSwkOCYO-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A12" target="_blank">TESTE DA INTERFACE</a>
+- <a href="https://www.figma.com/design/cZ8AAe6oKD3AbLGyBu1NDT/PIM?node-id=0-1&t=SxsCqyy0FbWu58lY-0" target="_blank">PROJETO DA INTERFACE</a>
+- <a href="https://www.figma.com/proto/cZ8AAe6oKD3AbLGyBu1NDT/PIM?node-id=2-12&t=Y3cyNBol13o3wSpN-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A12" target="_blank">TESTE DA INTERFACE</a>
 
 **A SIMPLE PLAN É COMPOSTA POR 6 DESENVOLVEDORES SENDO ELES**
 
